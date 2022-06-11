@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.billede_1 {
+    display: grid;
+    
+}
+
+.billede_2 {
+    display: grid;
+    
+}
+
+.billede_3 {
+    display: grid;
+    
+}
+
+#section_1 {
+    position: sticky;
+   top: 0;
+   z-index: -1;
+}
+
+
+
